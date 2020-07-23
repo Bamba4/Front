@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import {Hero} from '../hero';
 import {HeroesService} from '../heroes.service';
 import {environment} from '../../environments/environment.prod';
-import * as   Mapboxgl from 'mapbox-gl';
+import * as Mapboxgl from 'mapbox-gl';
 
 @Component({
   selector: 'app-dashboard',
