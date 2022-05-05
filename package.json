@@ -22,7 +22,7 @@
     "angular-in-memory-web-api": "^0.11.0",
     "mapbox-gl": "^1.11.1",
     "rxjs": "~6.5.4",
-    "tslib": "^1.10.0",
+    "tslib": "^1.14.1",
     "zone.js": "~0.10.2"
   },
   "devDependencies": {
